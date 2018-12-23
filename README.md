@@ -1,2 +1,2 @@
 # dev_setup
-development enviroments setup scripts
+excute script after the new linux distribution installed.
