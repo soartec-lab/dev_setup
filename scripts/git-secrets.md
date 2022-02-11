@@ -10,6 +10,13 @@ brew install git-secrets
 git secrets --register-aws --global
 ```
 
+# Add GCP config
+
+```sh
+git secrets --add 'private_key' --global
+git secrets --add 'private_key_id' --global
+```
+
 # View config
 
 ```sh
